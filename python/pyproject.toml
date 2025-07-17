@@ -1,0 +1,6 @@
+[project]
+name = "kingaai-kweli"
+version = "0.0.1"
+license = {text = "Apache-2.0"}
+requires-python = ">=3.9"
+description = "kweli library"
